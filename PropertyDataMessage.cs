@@ -1,7 +1,7 @@
 ﻿using System;
 using Newtonsoft.Json;
 
-namespace MJIoT.Models
+namespace MJIot.Storage.Properties
 {
     public class PropertyDataMessage
     {

@@ -4,9 +4,8 @@ using System.Threading.Tasks;
 using Microsoft.Azure.Documents.Client;
 
 using ExtensionMethods;
-using MJIoT.Models;
 
-namespace MJIoT.Storage.PropertyValues
+namespace MJIot.Storage.Properties
 {
     public class CosmosPropertyStorage : IPropertyStorage
     {

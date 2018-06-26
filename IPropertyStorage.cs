@@ -1,6 +1,6 @@
 ﻿using System.Threading.Tasks;
 
-namespace MJIoT.Storage.PropertyValues
+namespace MJIot.Storage.Properties
 {
     public interface IPropertyStorage
     {
